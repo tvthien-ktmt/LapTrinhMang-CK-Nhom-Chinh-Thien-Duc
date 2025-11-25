@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/px4_mavsdk.dir/main.cpp.o -o px4_mavsdk  -Wl,-rpath,/usr/local/lib /usr/local/lib/libmavsdk.so.3.11.0 -lMAVSDK::mavsdk_action -lMAVSDK::mavsdk_telemetry -lMAVSDK::mavsdk_offboard -ldl 

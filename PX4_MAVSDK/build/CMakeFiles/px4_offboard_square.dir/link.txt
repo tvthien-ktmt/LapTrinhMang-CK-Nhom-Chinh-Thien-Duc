@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/px4_offboard_square.dir/main.cpp.o -o px4_offboard_square  -Wl,-rpath,/usr/local/lib /usr/local/lib/libmavsdk.so 

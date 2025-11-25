@@ -1,0 +1,7 @@
+cd ~/Downloads
+./QGroundControl-x86_64.AppImage
+
+cd ~/PX4-Autopilot
+make px4_sitl gz_x500
+
+px4_offboard_square
